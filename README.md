@@ -9,7 +9,7 @@ This project is to be used in enviorments, where the user isn't always there, bu
 
 ## Feedback
 
-If you have any feedback, please reach out to us at fake@fake.com
+If you have any feedback, please reach out to us at alexvolkov@email.cz
 
 
 ## Run Locally
